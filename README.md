@@ -1,4 +1,4 @@
-# 🖨️ PrintSYS - Sistema de Gestión de Reclamos IT
+# PrintSYS - Sistema de Gestión de Reclamos IT
 
 Aplicación de escritorio desarrollada en **C# (Windows Forms)** y **SQL Server** diseñada para optimizar el control, seguimiento y resolución de incidencias y reclamos de impresoras Xerox en el área de Soporte Técnico.
 
@@ -40,10 +40,10 @@ La tabla principal del sistema (`Reclamos`) cuenta con los siguientes campos pri
 
 ## Configuración e Instalación
 
-1. Clona este repositorio o descarga el código fuente.
-2. Abre la solución (`.sln`) en **Visual Studio**.
-3. Configura tu cadena de conexión a la base de datos en el archivo de configuración (`App.config`).
-4. Ejecuta el script de SQL Server para crear la base de datos y la tabla correspondiente.
+1. Clonar este repositorio o descargar el código fuente.
+2. Abrir la solución (`.sln`) en **Visual Studio**.
+3. Configurar la cadena de conexión a la base de datos en el archivo de configuración (`App.config`) por defecto está localhost
+4. Ejecutar el script de SQL Server para crear la base de datos y la tabla correspondiente.
 5. Compilar y ejecutar el proyecto
 
 ---
